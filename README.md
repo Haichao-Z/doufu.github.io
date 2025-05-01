@@ -210,6 +210,8 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 - [Link to my final embedded C firmware codebases](https://github.com/Haichao-Z/doufu.github.io/tree/main/Application)
 
+- [Link to AI voice module code](https://github.com/Haichao-Z/doufu.github.io/tree/main/Application)
+
 - [Node-Red json  file](https://github.com/Haichao-Z/doufu.github.io/blob/main/node_red.json)
 
 - [Links to PCBA design](https://github.com/Haichao-Z/doufu.github.io/tree/main/PCBA)
